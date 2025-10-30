@@ -122,8 +122,8 @@ html = """
     {% else %}
         <div class="popup">
             <h1>Hey ___! 💖</h1>
-            <p class="message">You always make my day a little better.</p>
-            <p class="message">Okay thats it bye! 🤍</p>
+            <p class="message">Insert Text.</p>
+            <p class="message">Insert Text 🤍</p>
 	    <p class="emoji">☺️😊🙂</p>
         </div>
         <!-- Floating hearts -->
